@@ -5,7 +5,7 @@ widget: about.avatar
 # This file represents a page section.
 headless: true
 
-active: false
+active: true
 
 # Order that this section will appear in.
 weight: 20
