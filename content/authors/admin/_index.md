@@ -25,9 +25,10 @@ interests:
   - Game Development
 
 education:
-  - area: BSc in Chemistry
+  courses:
+  - course: BSc in Chemistry
     institution: Università degli Studi di Milano
-    date_start: 2021-09-27
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
