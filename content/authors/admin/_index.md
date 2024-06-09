@@ -8,10 +8,6 @@ superuser: true
 # Role/position
 role: ''
 
-# Status emoji
-status:
-  icon: ☕️
-
 # Organizations/Affiliations
 #organizations:
 #- name: 腾讯
