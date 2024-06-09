@@ -1,6 +1,6 @@
 ---
 title: Minecraft-like terrain generation
-summary: A simple version of a tool to edit images by drawing onto them with the mouse cursor. Used OpenGL for the drawing aspect and the static library *pnglib* programmed by me to handle the image encoding.
+summary: This project aims to recreate a Minecraft-like terrain generation without using an engine. Made using OpenGL and the GLFW, GLM and GLEW libraries.
 tags:
   - OpenGL
   - 3D Graphics Programming
