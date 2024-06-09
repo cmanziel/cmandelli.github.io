@@ -38,12 +38,12 @@ header:
     show_logo: false
     show_language: false
     show_day_night: true
-    show_search: true
+    show_search: false
     highlight_active_link: false
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    # notice: '© {year} Me. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
