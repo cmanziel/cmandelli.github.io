@@ -28,7 +28,7 @@ education:
   courses:
   - course: BSc in Chemistry
     institution: Università degli Studi di Milano
-    year: 2021
+    year: 2021 - present
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

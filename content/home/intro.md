@@ -18,7 +18,4 @@ author: admin
 #  css_class: fullscreen
 ---
 
-👋 Hi, there! I'm **Alice**, a machine learning researcher at Netflix.
-{style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
-
-Check out my [resumé](/about/) and portfolio below 😍
+I'm currently a BSc student in Chemistry although lately in my spare time i often find myself trying to learn about programming and creating something with it. I'm curious about the low level aspects of how things work, that's why i focused on OpenGL, C and C++ so far and tried to create as much as possible from scratch. I consider myself a person capable of adapting to various contexts since i've done different types of jobs in the past, and very eager to learn, i always try to make time in the day to expand my knowlege about a topic. I like enjoying my free time practicing and watching sports or going on an hike. My main choices when it comes to entertainment are podcasts and stand-up comedy.
