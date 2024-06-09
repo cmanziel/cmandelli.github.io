@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Student
     company: Università degli Studi di Milano
-    date_start: '2016-01-01'
+    date_start: '2021-09-27'
     date_end: ''
 
 design:
