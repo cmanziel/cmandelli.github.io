@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Claudio Mandelli
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,24 +18,19 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm currently a BSc student in Chemistry although lately in my spare time i often find myself trying to learn about programming and creating something with it.
+I'm curious about the low level aspects of how things work, that's why i focused on OpenGL, C and C++ so far and tried to create as much as possible from scratch.
+I consider myself a person capable of adapting to various contexts since i've done different types of jobs in the past, and very eager to learn, i always try to make time in the day to expand my knowlege about a topic.
+I like enjoying my free time practicing and watching sports or going on an hike. My main choices when it comes to entertainment are podcasts and stand-up comedy.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+  - Graphics Programming
+  - Game Development
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+education:
+  - area: BSc in Chemistry
+    institution: Università degli Studi di Milano
+    date_start: 2021-09-27
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,17 +39,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
+    link: 'mailto:claudio.mandelli01@gmail.com' # For a direct email link, use "mailto:test@example.org".
+  - icon: github
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
-    icon_pack: fab
-    link: https://instagram.com/geocushen
-# Uncomment below for Github link
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+    link: https://github.com/cmanziel
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -66,8 +54,4 @@ social:
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+Long Bio
