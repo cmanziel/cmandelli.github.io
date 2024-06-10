@@ -39,6 +39,7 @@ design:
   columns: '4'
   view: masonry
   flip_alt_rows: true
-  background: {}
+  background:
+    color: '#16004b'
   spacing: {padding: [10, 0, 0, 0]}
 ---

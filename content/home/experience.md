@@ -28,5 +28,7 @@ experience:
     date_end: ''
 
 design:
+  background:
+    color: '#16004b'
   columns: '1'
 ---
