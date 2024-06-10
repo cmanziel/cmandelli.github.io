@@ -11,7 +11,7 @@ headless: true
 weight: 40
 
 title: 'Projects'
-subtitle: ''
+subtitle: '   '
 
 content:
   # Page type to display. E.g. project.
