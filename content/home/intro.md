@@ -11,6 +11,9 @@ active: true
 weight: 20
 
 author: admin
+design:
+  background:
+    color: '#ff7474'
 #design:
 #  background:
 #    color: '#090a0b'
