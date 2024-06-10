@@ -28,5 +28,6 @@ experience:
     date_end: ''
 
 design:
+  background: black
   columns: '1'
 ---
