@@ -4,5 +4,5 @@ summary: Earlier in my learning path i've dabbled in some web and mobile develop
 tags:
     - Web/Mobile Development
 
-external_link: https://cmanziel.github.io/cmandelli.github.io/#portfolio
+external_link: https://github.com/cmanziel
 ---
