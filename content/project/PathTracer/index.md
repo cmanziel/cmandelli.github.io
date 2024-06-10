@@ -4,5 +4,5 @@ summary: Early version of a path tracer based on the *RayTracing in a Weekend* b
 tags:
     - Path Tracing
 
-external_link: https://github.com/cmanziel/pnglib
+external_link: https://github.com/cmanziel/PathTracer
 ---

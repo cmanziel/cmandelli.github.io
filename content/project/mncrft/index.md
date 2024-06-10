@@ -1,5 +1,5 @@
 ---
-title: Minecraft-like terrain generation
+title: Minecraft-like terrain
 summary: This project aims to recreate a Minecraft-like terrain generation without using an engine. Made using OpenGL and the GLFW, GLM and GLEW libraries.
 tags:
   - OpenGL
